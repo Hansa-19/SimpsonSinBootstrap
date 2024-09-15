@@ -1,0 +1,72 @@
+body{
+    background:#FFD90F
+}
+.cajita01{
+    background-image: url(images/homero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+    width: 250px;
+    height: 450px;
+    background-color: #ffe169;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.cajita02{
+    background-image: url(images/marge.jpg);
+    background-repeat: no-repeat;
+    background-position:center; background-position-y: 105%;
+    background-size: 150%;
+    width: 250px;
+    height: 450px;
+    background-color: #ffe169;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.cajita03{
+    background-image: url(images/bart.jpg);
+    background-repeat: no-repeat;
+    background-position: center; background-position-y: 10%;
+    background-size: 110%;
+    width: 250px;
+    height: 450px;
+    background-color: #ffe169;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.cajita04{
+    background-image: url(images/lisa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    width: 250px;
+    height: 450px;
+    background-color: #ffe169;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.cajita05{
+    background-image: url(images/maggie.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    width: 250px;
+    height: 450px;
+    background-color: #ffe169;
+    margin-left: 100px;
+    float: left;
+    margin-top: 100px;
+}
+a {
+    background-position: center;
+    background-color: #c9a227;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+    border-radius: 10px;
+}
